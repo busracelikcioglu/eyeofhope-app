@@ -25,4 +25,21 @@ Ses İşleme: Kullanıcı sesli komutlarını eyleme dönüştürür.
 Sesli Rehberlik: Gerçek zamanlı, adım adım navigasyon talimatları sağlar.
 Titreşimli Geri Bildirim: Gürültülü ortamlarda titreşimli bildirimler sunar.
 Engel Tespiti: MobileNetV1 kullanarak engelleri tespit eder ve kullanıcıyı bilgilendirir.
+## Kurulum
+
+Uygulamayı yerel makinenize kurmak ve çalıştırmak için aşağıdaki adımları izleyin:
+
+1. Bu depoyu yerel makinenize klonlayın:
+    ```sh
+    git clone https://github.com/your-repo/eyeofhope.git
+    ```
+
+2. Projeyi Android Studio'da açın.
+
+3. Projeyi Gradle dosyaları ile senkronize edin.
+
+4. Uygulamayı bir Android cihazında veya emülatörde derleyin ve çalıştırın.
+
+   Not: Uygulamayı derlemek ve çalıştırmak için Android Studio'nun yüklü olması gerekmektedir.
+
 
