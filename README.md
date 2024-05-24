@@ -43,9 +43,8 @@ Kurulum
 Uygulamayı kurmak ve çalıştırmak için:
 
 Bu depo'yu yerel makinenize klonlayın:
-sh
-Kodu kopyala
-git clone https://github.com/your-repo/eyeofhope.git
+```sh git clone https://github.com/your-repo/eyeofhope.git
+
 Projeyi Android Studio'da açın.
 Projeyi Gradle dosyaları ile senkronize edin.
 Uygulamayı bir Android cihaz veya emülatör üzerinde derleyin ve çalıştırın.
